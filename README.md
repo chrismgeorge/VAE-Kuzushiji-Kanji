@@ -1,6 +1,5 @@
 # VAE-Kuzushiji-Kanji
 
-### TODO
-* Make script for getting data from other git repo
-* Make script for getting my model
-* Make VAE App
+### Running App
+* From terminal, do ```sh run.sh``` to install the model and gather the images.
+* Then, to start the program just run the app, from terminal do ```python3 app.py```.

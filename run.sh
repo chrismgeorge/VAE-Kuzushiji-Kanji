@@ -6,5 +6,4 @@ cd ..
 git clone https://github.com/rois-codh/kmnist.git
 cd kmnist
 tar -xvf kkanji.tar
-cd ..
-python3 remove_images.py
+python3 download_data.py
